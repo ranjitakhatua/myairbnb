@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="airbnb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/airbnb.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
